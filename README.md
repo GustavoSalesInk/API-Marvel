@@ -1,5 +1,5 @@
 # API-marvel
-# Este projeto é baseado no Teste-FortBrasil de como usar uma API da Marvel.
+# Este projeto foi feito para o teste da empresa FortBrasil, de como usar e consumir uma API (da Marvel).
 #
 #  Tecnologias usadas e linguagens usadas:
 			* HTML 5
